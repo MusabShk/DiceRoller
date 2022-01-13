@@ -5,4 +5,4 @@ As the name suggests, this app gives you random outputs of a dice which can be u
 
 Provides you two dice, one for each user in a 2 player game.
 
-![](app-screenshots/1.gif)
+![](app-screenshots/1.gif =250x500)
